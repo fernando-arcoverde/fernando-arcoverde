@@ -6,6 +6,12 @@ Meu nome é Fernando Arcoverde e sou completamente apaixonado por tecnologia, m�
 
 Atualmente sou pessoa estudante de Desenvolvimento Web Full Stack na Trybe - Turma 31, iniciada em Fevereiro de 2023 com previsão de término em Fevereiro de 2024.
 
+Aqui você terá acesso aos meus exercícios realizados em cada dia de aprendizado, ao meu portfólio e também aos meus projetos.
+
+Estou aberto para dicas e críticas construtivas no meu portfólio e projetos pessoais, sempre com o objetivo de melhorar.
+
+Obrigado pela visita!
+
 <br>
 
 <!-- GITHUB STATUS -->
